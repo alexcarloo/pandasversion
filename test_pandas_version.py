@@ -1,7 +1,7 @@
 """
 Test for correct pandas version
 """
-import pandas as pandas
+import pandas as pd
 
 PANDAS_VERSION = "1.5.3"
 
